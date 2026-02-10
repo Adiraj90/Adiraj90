@@ -2,7 +2,7 @@
   
 # 👋 Namaste, I'm Aditya Raj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Enthusiast+🤖;Full+Stack+Developer+💻;Building+Applications+that+Matter+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Enthusiast+🤖;Building+Applications+that+Matter+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -81,41 +81,54 @@ me.say_hi()
 
 ## 🔥 Featured Projects
 
-<div align="center">
-
 ### 🤖 Multi-Modal Chatbot Platform
-**Tech Stack:** Python | LangChain | Streamlit | OpenAI | Ollama | RAG
 
-✨ **Key Features:**
-- 6 integrated modalities: context-aware conversations, document QA, SQL queries, web search
-- RAG pipeline with PyPDFLoader & FastEmbed for 15MB+ documents
-- LangChain ConversationBufferMemory for multi-turn interactions
-- Real-time streaming responses with LLM switching (OpenAI/Ollama)
-- 25% improvement in response accuracy through prompt engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Key Features:**
+- Deployed a multi-modal chatbot platform with 6 integrated modalities, including context-aware conversations, document-based QA, SQL database queries, internet-enabled search, and web content retrieval
+- Implemented LangChain ConversationBufferMemory for robust chat history management, enabling context-aware, multi-turn LLM responses and personalized, intelligent user interactions
+- Developed a Retrieval-Augmented Generation (RAG) pipeline using PyPDFLoader, FastEmbed and DocArrayInMemorySearch, delivering highly relevant document-based answers for files upto 15MB
+- Integrated real-time data access through DuckDuckGo search and SQL databases for live events and structured queries
+- Built an interactive Streamlit interface with a modular chat UI supporting all 6 AI modules, enabling seamless LLM switching (OpenAI, Ollama) and real-time streaming responses
+- Applied prompt engineering, LLM orchestration and memory optimization, enhancing response accuracy and context retention by 25%
 
 ---
 
 ### 📈 Stock Price Prediction Web App
-**Tech Stack:** Python | LSTM | Streamlit | Tiingo/NASDAQ API
 
-✨ **Key Features:**
-- LSTM networks analyzing 3 years of historical data for 50+ stocks
-- Automated data pipelines reducing manual effort by 50%
-- Real-time market insights with interactive visualizations
-- Accurate 30-day stock price predictions
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Key Features:**
+- Engineered an AI-driven stock prediction platform using LSTM networks to analyze 3 years of historical financial data, forecasting trends for more than 50 stocks weekly
+- Automated data pipelines for acquisition, preprocessing and visualization, reducing manual effort by 50% and enabling interactive analytics for over many active users per session
+- Integrated Tiingo/NASDAQ APIs with a responsive Streamlit dashboard, enabling real-time market insights, interactive visualizations, and actionable trend analysis
+- Applied advanced time-series forecasting, deep learning and machine learning techniques to deliver precise 30-day stock price predictions, aiding investors in decision-making
 
 ---
 
 ### 👤 Face Recognition Attendance System
-**Tech Stack:** Python | OpenCV | LBPH | Tkinter | Pandas
 
-✨ **Key Features:**
-- Real-time face recognition for 100+ students per session
-- Interactive Tkinter GUI with automatic & manual attendance modes
-- Live webcam streaming with audio notifications
-- Automated CSV generation for attendance records
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+**Key Features:**
+- Developed an AI-powered attendance management system using OpenCV and LBPH, capable of recognizing more than 100s of students per session and generating automated CSV records per class
+- Built an interactive Tkinter GUI supporting both automatic and manual attendance, handling more than 100 student entries daily with validation and notifications
+- Implemented facial dataset creation and training pipeline using Python and Pillow, enabling efficient, scalable LBPH model training for accurate real-time face recognition
+- Enabled live webcam streaming, remote camera support, and audio notifications via pyttsx3, providing real-time monitoring across multiple classrooms
 
 ---
 
@@ -123,27 +136,10 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adiraj90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adiraj90&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-### 🎖️ Achievements
-🏅 **Prime Minister's Scholarship** - RPF Scheme (₹1.2 Lakhs) for academic excellence  
-💯 **100 Days of Code** - LeetCode challenge completed (DSA focused)  
-📚 **CGPA 8.48** - Academic Excellence at VIT Bhopal
-
-### 📜 Certifications
-🎓 **Complete Generative AI with LangChain & Hugging Face** - Udemy (2024)  
-🎓 **MERN Stack Developer Certification** - ETHNUS (2025)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -153,7 +149,7 @@ me.say_hi()
 
 <div align="center">
   
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true)](https://github.com/your-username)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adiraj90&theme=tokyo-night&hide_border=true)](https://github.com/Adiraj90)
 
 </div>
 
@@ -163,7 +159,7 @@ me.say_hi()
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Adiraj90/Adiraj90/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -232,7 +228,7 @@ mindmap
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Adiraj90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 **⭐ From [Aditya Raj](https://github.com/Adiraj90) | Building the Future with AI 🚀**
 
