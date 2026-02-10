@@ -2,7 +2,7 @@
   
 # 👋 Namaste, I'm Aditya Raj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Enthusiast+🤖;Building+Applications+that+Matter+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=AI+%26+Machine+Learning+Enthusiast+🤖;Full+Stack+Developer+💻;Building+Applications+that+Matter+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -136,10 +136,14 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adiraj90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adiraj90&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adiraj90&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj90&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj90&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -191,16 +195,6 @@ mindmap
 ```
 
 </div>
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Complete MERN Stack Certification
-- 🎯 Contribute to 10+ Open Source Projects
-- 🎯 Build 5 Production-Ready AI Applications
-- 🎯 Master LLM Fine-tuning & Deployment
-- 🎯 Achieve 500+ LeetCode Problems Solved
 
 ---
 
