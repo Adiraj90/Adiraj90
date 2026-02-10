@@ -84,8 +84,6 @@ me.say_hi()
 <div align="center">
 
 ### 🤖 Multi-Modal Chatbot Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=multi-modal-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Adiraj90/multi-modal-qna-chatbot)
-
 **Tech Stack:** Python | LangChain | Streamlit | OpenAI | Ollama | RAG
 
 ✨ **Key Features:**
@@ -98,8 +96,6 @@ me.say_hi()
 ---
 
 ### 📈 Stock Price Prediction Web App
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=stock-prediction&theme=tokyonight&hide_border=true)](https://github.com/your-username/stock-prediction)
-
 **Tech Stack:** Python | LSTM | Streamlit | Tiingo/NASDAQ API
 
 ✨ **Key Features:**
@@ -111,8 +107,6 @@ me.say_hi()
 ---
 
 ### 👤 Face Recognition Attendance System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=face-attendance&theme=tokyonight&hide_border=true)](https://github.com/your-username/face-attendance)
-
 **Tech Stack:** Python | OpenCV | LBPH | Tkinter | Pandas
 
 ✨ **Key Features:**
