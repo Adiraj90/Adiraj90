@@ -8,10 +8,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theadityaraj91/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adiraj90)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adikumar.rajhq91@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/9122908923/)
 
 </div>
 
@@ -84,7 +84,7 @@ me.say_hi()
 <div align="center">
 
 ### 🤖 Multi-Modal Chatbot Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=multi-modal-chatbot&theme=tokyonight&hide_border=true)](https://github.com/your-username/multi-modal-chatbot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=multi-modal-chatbot&theme=tokyonight&hide_border=true)](https://github.com/Adiraj90/multi-modal-qna-chatbot)
 
 **Tech Stack:** Python | LangChain | Streamlit | OpenAI | Ollama | RAG
 
@@ -220,9 +220,9 @@ mindmap
 
 **I'm always excited to collaborate on AI/ML projects or discuss innovative ideas!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theadityaraj91/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:adikumar.rajhq91@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/Adiraj90)
 
 </div>
 
@@ -240,6 +240,6 @@ mindmap
 
 <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-**⭐ From [Aditya Raj](https://github.com/your-username) | Building the Future with AI 🚀**
+**⭐ From [Aditya Raj](https://github.com/Adiraj90) | Building the Future with AI 🚀**
 
 </div>
