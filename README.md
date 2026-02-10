@@ -11,15 +11,39 @@ Turning data into intelligence with ML and GenAI applications
 <br/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Adiraj90/Adiraj90/main/github-metrics.svg"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/Adiraj90/Adiraj90/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,git,github,docker,linux" />
 </p>
 
 <br/>
 
+## 🚀 About Me
+
+- Final Year B.Tech CSE @ VIT Bhopal
+- Focused on ML, LLMs and Generative AI
+- Building real-world AI applications
+- Python & C++ Developer
+
+---
+
+## 🧠 Projects
+
+- GenAI Multimodal Chatbot
+- AI Trip Planner
+- Hospital Management System
+- DSA C++ Practice
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-LinkedIn: linkedin • adikumar.rajhq91@gmail.com
+  <img src="https://github-readme-stats.vercel.app/api?username=Adiraj90&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiraj90&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin  
+adikumar.rajhq91@gmail.com
