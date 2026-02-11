@@ -91,12 +91,10 @@ me.say_hi()
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Key Features:**
-- Deployed a multi-modal chatbot platform with 6 integrated modalities, including context-aware conversations, document-based QA, SQL database queries, internet-enabled search, and web content retrieval
-- Implemented LangChain ConversationBufferMemory for robust chat history management, enabling context-aware, multi-turn LLM responses and personalized, intelligent user interactions
-- Developed a Retrieval-Augmented Generation (RAG) pipeline using PyPDFLoader, FastEmbed and DocArrayInMemorySearch, delivering highly relevant document-based answers for files upto 15MB
-- Integrated real-time data access through DuckDuckGo search and SQL databases for live events and structured queries
-- Built an interactive Streamlit interface with a modular chat UI supporting all 6 AI modules, enabling seamless LLM switching (OpenAI, Ollama) and real-time streaming responses
-- Applied prompt engineering, LLM orchestration and memory optimization, enhancing response accuracy and context retention by 25%
+- Built 6-mode LLM system: Chat, RAG, SQL, Web Search, Docs QA  
+- LangChain + OpenAI/Ollama + Streamlit  
+- Context memory + real-time data + 15MB PDF RAG  
+- Improved response accuracy & personalization by 25%
 
 ---
 
@@ -109,12 +107,10 @@ me.say_hi()
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Key Features:**
-- Architected a specialized multi-agent AI system with 4 domain-expert agents (Destination, Itinerary, Hotel, Food), utilizing LangChain for LLM orchestration and structured output generation with JSON schema validation
-- Engineered intelligent itinerary generation with chain-of-thought reasoning, supporting 10+ trip types (Adventure, Cultural, Relaxation, Culinary), dietary preferences (Veg/Non-Veg/Vegan/Halal/Kosher), and budget-aware recommendations across multiple currencies
-- Implemented advanced filtering system for hotels (30+ per city) and restaurants with real-time pagination, supporting 8+ filter categories including price range, star ratings, room types, amenities, and cuisine types
-- Integrated Nominatim geocoding API and Google Maps for location services, Pexels/Unsplash APIs for high-quality travel imagery, and MySQL database with normalized schema for user management and trip storage
-- Developed comprehensive user management system with authentication, profile customization, favorites/bookmarks functionality, and duplicate trip prevention using hash-based validation
-- Built interactive Streamlit dashboard with Plotly visualizations (expense charts, time distribution analytics) and PDF export capability using ReportLab, enabling professional trip report generation with charts
+- 4 LLM agents (Itinerary, Hotels, Food, Destinations) using LangChain  
+- Smart trip plans with budget, diet & preference-aware recommendations  
+- Maps, APIs, MySQL + Streamlit dashboard with analytics & PDF reports  
+- End-to-end full-stack AI system
 
 ---
 
@@ -127,11 +123,10 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Key Features:**
-- Engineered an AI-driven stock prediction platform using LSTM networks to analyze 3 years of historical financial data, forecasting trends for more than 50 stocks weekly
-- Automated data pipelines for acquisition, preprocessing and visualization, reducing manual effort by 50% and enabling interactive analytics for over many active users per session
-- Integrated Tiingo/NASDAQ APIs with a responsive Streamlit dashboard, enabling real-time market insights, interactive visualizations, and actionable trend analysis
-- Applied advanced time-series forecasting, deep learning and machine learning techniques to deliver precise 30-day stock price predictions, aiding investors in decision-making
-
+- LSTM-based time-series forecasting on 3 years financial data  
+- Real-time market insights via Tiingo/NASDAQ APIs  
+- Automated data pipelines + interactive Streamlit dashboard  
+- 30-day predictions for 50+ stocks weekly
 ---
 
 ## 📊 GitHub Stats
