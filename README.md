@@ -100,6 +100,24 @@ me.say_hi()
 
 ---
 
+### ✈️ AI Trip Planner — Multi-Agent Travel Planning System
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Key Features:**
+- Architected a specialized multi-agent AI system with 4 domain-expert agents (Destination, Itinerary, Hotel, Food), utilizing LangChain for LLM orchestration and structured output generation with JSON schema validation
+- Engineered intelligent itinerary generation with chain-of-thought reasoning, supporting 10+ trip types (Adventure, Cultural, Relaxation, Culinary), dietary preferences (Veg/Non-Veg/Vegan/Halal/Kosher), and budget-aware recommendations across multiple currencies
+- Implemented advanced filtering system for hotels (30+ per city) and restaurants with real-time pagination, supporting 8+ filter categories including price range, star ratings, room types, amenities, and cuisine types
+- Integrated Nominatim geocoding API and Google Maps for location services, Pexels/Unsplash APIs for high-quality travel imagery, and MySQL database with normalized schema for user management and trip storage
+- Developed comprehensive user management system with authentication, profile customization, favorites/bookmarks functionality, and duplicate trip prevention using hash-based validation
+- Built interactive Streamlit dashboard with Plotly visualizations (expense charts, time distribution analytics) and PDF export capability using ReportLab, enabling professional trip report generation with charts
+
+---
+
 ### 📈 Stock Price Prediction Web App
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -113,22 +131,6 @@ me.say_hi()
 - Automated data pipelines for acquisition, preprocessing and visualization, reducing manual effort by 50% and enabling interactive analytics for over many active users per session
 - Integrated Tiingo/NASDAQ APIs with a responsive Streamlit dashboard, enabling real-time market insights, interactive visualizations, and actionable trend analysis
 - Applied advanced time-series forecasting, deep learning and machine learning techniques to deliver precise 30-day stock price predictions, aiding investors in decision-making
-
----
-
-### 👤 Face Recognition Attendance System
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Key Features:**
-- Developed an AI-powered attendance management system using OpenCV and LBPH, capable of recognizing more than 100s of students per session and generating automated CSV records per class
-- Built an interactive Tkinter GUI supporting both automatic and manual attendance, handling more than 100 student entries daily with validation and notifications
-- Implemented facial dataset creation and training pipeline using Python and Pillow, enabling efficient, scalable LBPH model training for accurate real-time face recognition
-- Enabled live webcam streaming, remote camera support, and audio notifications via pyttsx3, providing real-time monitoring across multiple classrooms
 
 ---
 
