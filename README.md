@@ -25,7 +25,7 @@
 class AdityaRaj:
     def __init__(self):
         self.name = "Aditya Raj"
-        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.role = "AI/ML Engineer"
         self.education = "B.Tech in CSE @ VIT Bhopal"
         self.cgpa = 8.48
         self.location = "Bihar, India 🇮🇳"
@@ -213,9 +213,6 @@ mindmap
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Here's a Joke for You!
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 ---
 
