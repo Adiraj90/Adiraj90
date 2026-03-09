@@ -27,7 +27,7 @@ class AdityaRaj:
         self.name = "Aditya Raj"
         self.role = "AI/ML Engineer"
         self.education = "B.Tech in CSE @ VIT Bhopal"
-        self.cgpa = 8.48
+        self.cgpa = 8.49
         self.location = "Bihar, India 🇮🇳"
         self.interests = ["AI/ML", "Deep Learning", "NLP", "Computer Vision"]
         
@@ -161,35 +161,6 @@ me.say_hi()
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/Adiraj90/Adiraj90/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💼 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Aditya Raj))
-    AI & ML
-      Deep Learning
-      NLP
-      Computer Vision
-      LangChain & RAG
-    Development
-      Full Stack
-      API Integration
-      Database Design
-    Learning
-      Generative AI
-      LLM Fine-tuning
-      Advanced DSA
-    Open Source
-      Contributing
-      Building Tools
-```
 
 </div>
 
