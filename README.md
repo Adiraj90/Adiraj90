@@ -43,7 +43,7 @@ me.say_hi()
 ### 🎓 Education
 
 🎓 **Vellore Institute of Technology (VIT), Bhopal**  
-📚 B.Tech in Computer Science Engineering | CGPA: **8.48/10**  
+📚 B.Tech in Computer Science Engineering | CGPA: **8.49/10**  
 📅 2022 - 2026
 
 ---
