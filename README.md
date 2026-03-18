@@ -93,7 +93,7 @@ me.say_hi()
 **Key Features:**
 - Built 6-mode LLM system: Chat, RAG, SQL, Web Search, Docs QA  
 - LangChain + OpenAI/Ollama + Streamlit  
-- Context memory + real-time data + 15MB PDF RAG  
+- Context memory + real-time data + PDF RAG  
 - Improved response accuracy & personalization by 25%
 
 ---
