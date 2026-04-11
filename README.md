@@ -154,15 +154,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Adiraj90/Adiraj90/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
