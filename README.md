@@ -171,12 +171,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <img src="https://komarev.com/ghpvc/?username=Adiraj90&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
