@@ -29,7 +29,7 @@ class AdityaRaj:
         self.education = "B.Tech in CSE @ VIT Bhopal"
         self.cgpa = 8.54
         self.location = "Bihar, India 🇮🇳"
-        self.interests = ["AI/ML", "Deep Learning", "NLP", "Computer Vision"]
+        self.interests = ["AI/ML", "Deep Learning", "NLP"]
         
     def say_hi(self):
         print("Building applications that make a real difference! 💡")
