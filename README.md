@@ -27,7 +27,7 @@ class AdityaRaj:
         self.name = "Aditya Raj"
         self.role = "AI/ML Engineer"
         self.education = "B.Tech in CSE @ VIT Bhopal"
-        self.cgpa = 8.49
+        self.cgpa = 8.54
         self.location = "Bihar, India 🇮🇳"
         self.interests = ["AI/ML", "Deep Learning", "NLP", "Computer Vision"]
         
